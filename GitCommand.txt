@@ -29,6 +29,7 @@
     ssh-keygen -t rsa -C "519076284@qq.com" //创建ssh连接的公钥、私钥
     git remote add origin git@github.com:zfisll/git_file.git //把本地的仓库与github上的仓库关联
     
+    git clone http://10.10.25.132/Test.git  //把服务器上的版本库克隆到本地    
 
 
     
