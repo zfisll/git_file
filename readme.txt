@@ -7,3 +7,4 @@ I will study git commend again!create a new branch develop
 I && my wife && child
 
 use git stash
+B分支推送A分支内容
